@@ -6,6 +6,7 @@ Code challenge involving creating additional features to a movie website
 JavaScript
 HTML
 CSS
+JSON
 #### AUTHOR AND LICENSE
 AUTHOR By Mark Wainaina
 
